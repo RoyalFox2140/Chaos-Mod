@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "ChaosMod",
+    "name": "Chaos Mod",
+    "authors": [ "RoyalFox" ],
+    "maintainers": [ "RoyalFox" ],
+    "description": "BECOME ANYTHING. Don't let your bad ideas be dreams.",
+    "category": "content",
+    "dependencies": [ "bn" ]
+  }
+]
