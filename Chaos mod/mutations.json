@@ -235,8 +235,7 @@
     "description": "You're a quick reader, and can get through books a lot faster than most.",
     "reading_speed_multiplier": 0.8,
     "starting_trait": true,
-    "valid": false,
-     "SLOWREADER" ]
+    "valid": false
   },
   {
     "type": "mutation",
@@ -481,8 +480,7 @@
     "points": 1,
     "description": "Although you still suffer the negative effects of pain, it also brings a unique pleasure to you.",
     "starting_trait": true,
-    "valid": false,
-     "CENOBITE" ]
+    "valid": false
   },
   {
     "type": "mutation",
@@ -833,8 +831,7 @@
     "points": -6,
     "description": "You never learned to read!  Books and computers are off-limits to you.",
     "starting_trait": true,
-    "valid": false,
-     "LOVES_BOOKS" ]
+    "valid": false
   },
   {
     "type": "mutation",
@@ -888,8 +885,7 @@
     "description": "You have problems with eating meat.  It's possible for you to eat it, but you will suffer morale penalties and obtain less nutrition from it.",
     "starting_trait": true,
     "valid": false,
-    "vitamins_absorb_multi": [ [ "flesh", [ [ "vitA", 0 ], [ "vitB", 0 ], [ "vitC", 0 ], [ "calcium", 0 ], [ "iron", 0 ] ] ] ],
-     "ANTIFRUIT" ]
+    "vitamins_absorb_multi": [ [ "flesh", [ [ "vitA", 0 ], [ "vitB", 0 ], [ "vitC", 0 ], [ "calcium", 0 ], [ "iron", 0 ] ] ] ]
   },
   {
     "type": "mutation",
@@ -1056,8 +1052,7 @@
     "description": "You're a slow reader, and it takes you longer to get through books than most.",
     "reading_speed_multiplier": 1.3,
     "starting_trait": true,
-    "valid": false,
-     "FASTREADER" ]
+    "valid": false
   },
   {
     "type": "mutation",
@@ -1125,8 +1120,7 @@
     "description": "You don't like thinking about violence.  Your combat skills advance much slower than usual, and you feel more guilt about killing.",
     "starting_trait": true,
     "social_modifiers": { "intimidate": -10 },
-    "valid": false,
-     "PRED4" ]
+    "valid": false
   },
   {
     "type": "mutation",
@@ -1338,8 +1332,7 @@
     "description": "Your eyes have mutated to pick up radiation in the infrared spectrum.",
     
     
-    "category": [ "INSECT", "TROGLOBITE", "SPIDER" ],
-     "THRESH_SPIDER" ]
+    "category": [ "INSECT", "TROGLOBITE", "SPIDER" ]
   },
   {
     "type": "mutation",
@@ -1758,9 +1751,7 @@
     "bodytemp_sleep": 100,
     "description": "Light fur has grown to cover your entire body, providing slight protection from cold.",
     "category": [ "CHIMERA", "SPIDER", "MOUSE" ],
-    "types": [ "SKIN" ],
-    
-     "CHITIN_FUR" ]
+    "types": [ "SKIN" ]
   },
   {
     "type": "mutation",
@@ -3319,9 +3310,7 @@
     "id": "MORE_PAIN3",
     "name": { "str": "Extreme Hyperalgesia" },
     "points": -5,
-    "description": "Your body reacts cripplingly to any source of pain.  Pain dealt to you is doubled.",
-    
-     "NOPAIN" ]
+    "description": "Your body reacts cripplingly to any source of pain.  Pain dealt to you is doubled."
   },
   {
     "type": "mutation",
@@ -4170,8 +4159,7 @@
     "points": 0,
     "visibility": 3,
     "ugliness": 3,
-    "description": "You have a pair of bumps on your skull.",
-     "ANTENNAE" ]
+    "description": "You have a pair of bumps on your skull."
   },
   {
     "type": "mutation",
@@ -4213,8 +4201,7 @@
     "visibility": 7,
     "ugliness": 6,
     "description": "Skin tabs and odd flaps of skin surround your mouth.  They don't affect your eating, but are unpleasant to look at.",
-    "category": [ "CHIMERA" ],
-     "MANDIBLES" ]
+    "category": [ "CHIMERA" ]
   },
   {
     "type": "mutation",
@@ -4224,8 +4211,7 @@
     "visibility": 2,
     "ugliness": 2,
     "description": "You have a pair of stubby little wings projecting from your shoulderblades.  They can be wiggled at will, but are useless.",
-    "types": [ "WINGS" ],
-     "WINGS_BUTTERFLY" ]
+    "types": [ "WINGS" ]
   },
   {
     "type": "mutation",
